@@ -1,2 +1,4 @@
 # pywallet
-practice how to use pywallet
+pywalletの使い方の勉強
+
+### 001 - はじめてのpywallet
